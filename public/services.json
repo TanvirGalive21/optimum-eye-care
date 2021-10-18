@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "name": "Retina Repair",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/S52rgzs/main1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Glaucoma & Cornea",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/b1vkjCz/main2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dry Eye Surgery",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/wdkj4fR/main3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cornea Transplant",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/XSw0CT1/main4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Surgical Procedure",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/sJZKV2R/main5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Laser Surgery",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/BZfpqnT/main6.jpg"
+    }
+]
