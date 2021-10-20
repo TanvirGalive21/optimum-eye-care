@@ -3,11 +3,20 @@ import React from 'react';
 const Specialist = ({specialist}) => {
     const {name, img, expertize} = specialist;
     return (
-        <div className="col-lg-4 col-sm-6 col-12">
-            <img src={img} alt="" />
-            <h3>{name}</h3>
-            <h5 className="text-danger">{expertize}</h5>
-        </div>
+
+        <div className="container">
+            <div className="row">
+                <div className="col">
+                    <div className="specialist card">
+                        <img className="rounded img-fluid" src={img} alt="" />
+                        <div className="p-3 text-info">
+                            <h3>{name}</h3>
+                            <p className="">{expertize}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
     );
 };
 

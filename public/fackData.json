@@ -1,0 +1,46 @@
+{
+    "service": [
+        {
+            "id": 1,
+            "name":"Retina Care ",
+            "title": "Retina Care In Grand Rapids At Opnix Eye Clinic",
+            "description": "One method of retinal detachment repair is pneumatic retinopexy. In this procedure, a gas bubble is injected into the eye. The bubble presses against the detached retina and pushes it back into place. A laser or cryotherapy is then used to reattach the retina firmly into place",
+            "img": "https://i.ibb.co/S52rgzs/main1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Glaucoma & Cornea",
+            "price": "100",
+            "description": "An Ophthalmologist can detect and treat glaucoma, but for doctors interested in learning how to treat advanced",
+            "img": "https://i.ibb.co/b1vkjCz/main2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Dry Eye Surgery",
+            "price": "150",
+            "description": "An ophthalmologist completes extensive training in dry eye and is an expert in dry eye care.",
+            "img": "https://i.ibb.co/wdkj4fR/main3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Cornea Transplant",
+            "price": "180",
+            "description": "A cornea specialist is an ophthalmologist who specializes in treating the cornea.",
+            "img": "https://i.ibb.co/XSw0CT1/main4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Surgical Procedure",
+            "price": "100",
+            "description": "The surgeon establishes the diagnosis and provides the preoperative, operative, and postoperative care to patients.",
+            "img": "https://i.ibb.co/sJZKV2R/main5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Laser Surgery",
+            "price": "300",
+            "description": "Laser surgery is a type of surgery that uses special light beams instead of instruments for surgical procedures.",
+            "img": "https://i.ibb.co/BZfpqnT/main6.jpg"
+        }
+    ]
+}

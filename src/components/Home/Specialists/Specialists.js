@@ -6,6 +6,7 @@ import specialists4 from '../../../images/specialists/main4.png'
 import specialists5 from '../../../images/specialists/main5.png'
 import specialists6 from '../../../images/specialists/main6.png'
 import Specialist from '../Specialist/Specialist';
+import './Specialists.css'
 
 const specialists = [
     {
@@ -42,10 +43,12 @@ const specialists = [
 
 const Specialists = () => {
     return (
-        <div id="specialists" className="container m-5">
-            <h5 className="text-center text-primary">Doctors</h5>
-            <h2>Optimum Eye Care Specialist</h2>
-            <div className="row">
+        <div id="specialists" className="m-5">
+            <div className="m-5">
+            <h5 className="text-center text-info">Doctors</h5>
+            <h2 className="">Optimum Eye Care Specialist</h2>
+            </div>
+            <div className="specialist-container">
                 {
                     specialists.map(specialist => <Specialist
                         key = {specialist.name}

@@ -1,10 +1,9 @@
-
 [
     {
         "id": 1,
-        "name": "Retina Repair",
-        "price": "300",
-        "description": "A retina specialist is a medical doctor who has specialized in ophthalmology and sub-specialized in diseases.",
+        "name":"Retina Care ",
+        "title": "Retina Care In Grand Rapids At Opnix Eye Clinic",
+        "description": "One method of retinal detachment repair is pneumatic retinopexy. In this procedure, a gas bubble is injected into the eye. The bubble presses against the detached retina and pushes it back into place. A laser or cryotherapy is then used to reattach the retina firmly into place",
         "img": "https://i.ibb.co/S52rgzs/main1.jpg"
     },
     {

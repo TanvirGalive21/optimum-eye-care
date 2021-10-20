@@ -1,7 +1,9 @@
 .service {
-  background-color: rgb(226, 241, 241);
+  background-color: #B3E9F2;
   border-radius: 20px;
 }
-.service img {
-  width: 100%;
+
+.service:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #999;
 }
